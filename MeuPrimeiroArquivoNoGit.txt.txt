@@ -1,2 +1,1 @@
-Práticas de laboratório em TSI
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
